@@ -26,6 +26,12 @@ Each “terminal profile” includes not just color settings but also a bevy of 
 
 This terminal profile works under OS X 10.9 (Mavericks) and 10.10 (Yosemite). I don’t know whether it will work on earlier versions.
 
+## Author
+
+This color scheme was created by [Benjamin Esham](https://esham.io).
+
+This project is [hosted on GitHub](https://github.com/bdesham/zenburn-terminal). Please feel free to submit pull requests.
+
 ## License
 
-This terminal profile was created by [Benjamin Esham](http://esham.io), who hereby releases it into the public domain.
+This project is released into the public domain via the Unlicense, which you can find in the file LICENSE.md.
