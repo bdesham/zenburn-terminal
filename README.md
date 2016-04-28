@@ -6,7 +6,7 @@ This is an adaptation of Jani Nurminen’s [Zenburn] color scheme for the Termin
 
 ## Screenshot
 
-<img src="https://github.com/bdesham/zenburn-terminal/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="674" height="442" />
+<img src="https://github.com/bdesham/zenburn-terminal/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="650" height="437" />
 
 ## Installation
 
