@@ -6,7 +6,7 @@ This is an adaptation of Jani Nurminen’s [Zenburn] color scheme for the Termin
 
 ## Screenshot
 
-<img src="https://github.com/bdesham/zenburn-terminal/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="650" height="437" />
+<img src="https://github.com/bdesham/zenburn-terminal/raw/main/screenshot.png" alt="Screenshot of this color scheme" width="650" height="437" />
 
 ## Installation
 
@@ -16,7 +16,7 @@ This is an adaptation of Jani Nurminen’s [Zenburn] color scheme for the Termin
 4. Click the gear icon below the list of profiles and select “Import…”.
 5. Choose the “Zenburn.terminal” file from the archive you decompressed.
 
-[zipball]: https://github.com/bdesham/zenburn-terminal/archive/master.zip
+[zipball]: https://github.com/bdesham/zenburn-terminal/archive/main.zip
 
 ### Caveat
 
